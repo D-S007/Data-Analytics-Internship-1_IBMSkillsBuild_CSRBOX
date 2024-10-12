@@ -1,5 +1,5 @@
 # Internship-1-IBM-SkillsBuild-CSRBOX
-Introduction : 
+## Introduction : 
 - This is my first internship @CSRBOX & IBM Skillsbuild of "Data Analyst", and in this repo ,i will share all my learnings and answering some important questions like
   1. "How to collect , clean, analyze and visualize data ?"
   2. "How to do Data Analytics project from start to end ?"
@@ -10,7 +10,7 @@ And some of the best RESOURCES that i gathered in this process of learning.
 3. Data Analysis
 4. Data Visualization
 
-Tools and Technologies i used to make this project are as follows :
+## Tools and Technologies i used to make this project are as follows :
 1. Python (libraries like pandas, numpy, matplotlib and seaborn, scikit-learn)
 2. Jupyter notebook as workspace
 3. Tableau for making interactive data visualizations
