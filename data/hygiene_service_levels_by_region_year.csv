@@ -1,0 +1,86 @@
+,Region,Year,Basic Hygiene,Limited Hygiene,No handwashing facility
+0,Central and Southern Asia,2010,178.89795,107.61639,13.48567
+1,Central and Southern Asia,2011,180.64756,106.15612,13.19632
+2,Central and Southern Asia,2012,182.54004,104.81504,12.64492
+3,Central and Southern Asia,2013,184.46369,103.26237,12.27392
+4,Central and Southern Asia,2014,186.36567,101.92441,11.70989
+5,Central and Southern Asia,2015,192.26751,96.31519,11.4173
+6,Central and Southern Asia,2016,198.15808,90.72598,11.11595
+7,Central and Southern Asia,2017,204.75316,84.41603,10.83082
+8,Central and Southern Asia,2018,209.94526,78.67522,11.37952
+9,Central and Southern Asia,2019,215.69348,73.20473,11.10179
+10,Central and Southern Asia,2020,221.0552,68.11764,10.82716
+11,Central and Southern Asia,2021,226.76649,62.68975,10.54377
+12,Central and Southern Asia,2022,231.63765,57.94213,10.42023
+13,Eastern and South-Eastern Asia,2000,,,0.38325
+14,Eastern and South-Eastern Asia,2001,,,0.37871
+15,Eastern and South-Eastern Asia,2002,,,0.37411
+16,Eastern and South-Eastern Asia,2003,,,0.36932
+17,Eastern and South-Eastern Asia,2004,,,0.57985
+18,Eastern and South-Eastern Asia,2005,,,1.50691
+19,Eastern and South-Eastern Asia,2006,,,14.89653
+20,Eastern and South-Eastern Asia,2007,,,14.98257
+21,Eastern and South-Eastern Asia,2008,,,15.18874
+22,Eastern and South-Eastern Asia,2009,,,15.2589
+23,Eastern and South-Eastern Asia,2010,,,12.59663
+24,Eastern and South-Eastern Asia,2011,,,10.5786
+25,Eastern and South-Eastern Asia,2012,,,9.64893
+26,Eastern and South-Eastern Asia,2013,,,8.68205
+27,Eastern and South-Eastern Asia,2014,,,7.7245
+28,Eastern and South-Eastern Asia,2015,,,6.75924
+29,Eastern and South-Eastern Asia,2016,,,5.78654
+30,Eastern and South-Eastern Asia,2017,275.90601,19.28952,4.80449
+31,Eastern and South-Eastern Asia,2018,275.99266,20.19226,3.81507
+32,Eastern and South-Eastern Asia,2019,276.07013,20.97739,2.95246
+33,Eastern and South-Eastern Asia,2020,276.14222,20.90326,2.95452
+34,Eastern and South-Eastern Asia,2021,276.30241,20.74793,2.94966
+35,Eastern and South-Eastern Asia,2022,276.64872,20.47446,2.87682
+36,Latin America and the Caribbean,2011,59.16681,18.1126,22.72059
+37,Latin America and the Caribbean,2012,60.47235,18.43698,21.09067
+38,Latin America and the Caribbean,2013,60.60972,18.61401,20.77628
+39,Latin America and the Caribbean,2014,61.2392,18.44954,20.31127
+40,Latin America and the Caribbean,2015,61.82511,18.25319,19.9217
+41,Latin America and the Caribbean,2016,61.84379,18.45533,19.70088
+42,Latin America and the Caribbean,2017,62.21882,18.42697,19.35421
+43,Latin America and the Caribbean,2018,62.75627,18.28753,18.95621
+44,Latin America and the Caribbean,2019,63.29551,18.13195,18.57255
+45,Latin America and the Caribbean,2020,65.53042,,
+46,Latin America and the Caribbean,2021,65.23033,,
+47,Latin America and the Caribbean,2022,65.82453,,
+48,Northern Africa and Western Asia,2008,66.87982,,
+49,Northern Africa and Western Asia,2009,134.03317,24.45962,16.65669
+50,Northern Africa and Western Asia,2010,135.53205,29.01184,35.45611
+51,Northern Africa and Western Asia,2011,137.05541,28.67825,34.26634
+52,Northern Africa and Western Asia,2012,141.50731,27.50853,30.98416
+53,Northern Africa and Western Asia,2013,143.03074,27.16546,29.8038
+54,Northern Africa and Western Asia,2014,231.74718,26.93195,28.12889
+55,Northern Africa and Western Asia,2015,232.53955,27.17609,27.06074
+56,Northern Africa and Western Asia,2016,233.33157,26.65208,26.73791
+57,Northern Africa and Western Asia,2017,232.85679,27.13236,26.57903
+58,Northern Africa and Western Asia,2018,159.17962,21.24788,19.5725
+59,Northern Africa and Western Asia,2019,159.04268,21.99896,2.77159
+60,Northern Africa and Western Asia,2020,158.88217,22.13427,2.7049
+61,Northern Africa and Western Asia,2021,,,2.61694
+62,Northern Africa and Western Asia,2022,,,2.59959
+63,Oceania,2014,127.92314,84.55104,87.52582
+64,Oceania,2015,129.98214,82.16873,87.84914
+65,Oceania,2016,130.71771,81.86768,87.41461
+66,Oceania,2017,141.75757,76.64255,81.59988
+67,Oceania,2018,141.67019,76.71226,81.61756
+68,Oceania,2019,141.59586,76.78162,81.62253
+69,Oceania,2020,141.60135,76.46358,81.93507
+70,Oceania,2021,141.64308,76.49002,81.86688
+71,Oceania,2022,140.39875,77.38321,82.21804
+72,Sub-Saharan Africa,2010,9.96678,45.21315,44.82006
+73,Sub-Saharan Africa,2011,75.41942,111.3981,113.18248
+74,Sub-Saharan Africa,2012,76.54281,111.59484,111.86236
+75,Sub-Saharan Africa,2013,77.0879,111.96192,110.95018
+76,Sub-Saharan Africa,2014,75.11233,118.96045,105.92723
+77,Sub-Saharan Africa,2015,75.99398,121.54367,102.46235
+78,Sub-Saharan Africa,2016,77.17921,123.08963,99.73117
+79,Sub-Saharan Africa,2017,77.54854,123.06338,99.38808
+80,Sub-Saharan Africa,2018,77.87176,123.04825,99.07999
+81,Sub-Saharan Africa,2019,78.2353,123.02546,98.73924
+82,Sub-Saharan Africa,2020,78.22627,123.01754,98.7562
+83,Sub-Saharan Africa,2021,71.80458,125.74225,102.45317
+84,Sub-Saharan Africa,2022,72.06956,125.87587,102.05459
