@@ -1,0 +1,9 @@
+2025-06-28 21:35:26,794-INFO-Ingesting sdg_drinking_water_service_levels_by_region_year.csv in db
+2025-06-28 21:35:26,955-INFO-Table sdg_drinking_water_service_levels_by_region_year ingested successfully.
+2025-06-28 21:35:26,959-INFO-Ingesting hygiene_service_levels_by_region_year.csv in db
+2025-06-28 21:35:27,040-INFO-Table hygiene_service_levels_by_region_year ingested successfully.
+2025-06-28 21:35:27,045-INFO-Ingesting sanitation_service_levels_by_region_year.csv in db
+2025-06-28 21:35:27,133-INFO-Table sanitation_service_levels_by_region_year ingested successfully.
+2025-06-28 21:35:27,134-INFO-All files ingested successfully
+2025-06-28 21:35:27,134-INFO-Total time taken to ingest all files: 0.005904654661814372 minutes
+2025-06-28 21:35:27,134-INFO-Ingestion process completed.
